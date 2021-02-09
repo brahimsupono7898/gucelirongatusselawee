@@ -1,0 +1,4 @@
+baseURL = "https://freesong-beertu5.vercel.app"
+languageCode = "en-us"
+title = "Sheet Music Free Online"
+theme = "hugo-theme-minos"
